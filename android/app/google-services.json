@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135386066655",
+    "project_id": "vehicle-monitor-a54bb",
+    "storage_bucket": "vehicle-monitor-a54bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135386066655:android:93428b5e4055651ed7836a",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKCOyWME_SghOO-WEZ1JkonM18SKQROM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
