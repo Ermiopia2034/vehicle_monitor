@@ -117,4 +117,4 @@ We welcome contributions! Please feel free to submit a Pull Request.
 - The open-source community
 
 ## Contact
-For any inquiries about the project or potential collaborations, please reach out to [Your Contact Information].
+For any inquiries about the project or potential collaborations, please reach out to ermiyas2034@gmail.com
